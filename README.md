@@ -15,7 +15,7 @@
 
 ## 📊 Estatísticas  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoulSocramAqui&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SoulSocram&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoulSocram&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="150"/>
 </p>
 
