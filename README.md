@@ -8,7 +8,7 @@
 
 ## 🛠️ Tecnologias & Ferramentas  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,tailwind,postgres,mysql,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,postgres,mysql,docker,vscode" />
 </p>
 
 ---
